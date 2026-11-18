@@ -9,9 +9,13 @@ desperdício de água, energia e alimentos, definem metas mensais e recebem dica
 
 ## Integrantes
 
-| Nome completo | RM | Turma |
-| --- | --- | --- |
-| _(preencher)_ | _(preencher)_ | _(preencher)_ |
+| Nome completo                | RM         | Turma      |
+|------------------------------|------------|------------|
+| _(Gustavo Neri Andrade)_     | _(572722)_ | _(1TDSPI)_ |
+| _(Miguel Vieira Martins)_    | _(571978)_ | _(1TDSPI)_ |
+| _(Carlos Americo Machado)_   | _(571250)_ | _(1TDSPI)_ |
+| _(Thiado Vendrami Luca)_     | _(572942)_ | _(1TDSPI)_ |
+| _(Murilo da Silva Lourenço)_ | _(573959)_  | _(1TDSPI)_ |
 
 ## Arquitetura
 
@@ -78,7 +82,3 @@ Erros de validação (400) trazem também `campos`, com a mensagem de cada campo
 5. No front, configure `VITE_API_URL=https://SUA-API.onrender.com` e `VITE_API_MODE=java` (também na Vercel).
 
 > No plano gratuito do Render a API "dorme" após um tempo sem uso; a primeira chamada pode levar cerca de um minuto.
-
-## Uso de IA generativa
-
-_(declarar aqui as ferramentas de IA usadas e para quê, conforme a regra da Global Solution)_
